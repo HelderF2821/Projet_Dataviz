@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+h1 
+{
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 3.5rem;
+    color: rgb(139, 0, 0);
+    text-shadow: 3px 3px 0 #220202;
+    font-family: 'Roboto Slab', serif;
+    margin: 20px 0px;
+}
+
+.positioning
+{
+    border: 3px solid darkblue;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 15px;  
+    position: relative;
+}
